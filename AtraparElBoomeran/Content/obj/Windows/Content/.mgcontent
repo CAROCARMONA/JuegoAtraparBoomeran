@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/Boomeran1.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/Boomeran2.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/Boomeran3.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/Boomeran4.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/BOOMERANsonido.mp3</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/File.spritefont</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/fondo.jpg</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/gameover.PNG</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/ganoEljuego.PNG</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/hombre.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro1.PNG</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro2.PNG</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro3.PNG</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro4.PNG</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro5.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro6.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro7.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/perro8.png</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/sonidofondo.mp3</File>
+    <File>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/tirarBomeran.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

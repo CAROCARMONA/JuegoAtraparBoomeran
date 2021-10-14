@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/BOOMERANsonido.mp3</SourceFile>
+  <SourceTime>2021-10-11T14:08:15.9129468-05:00</SourceTime>
+  <DestFile>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/bin/Windows/Content/BOOMERANsonido.xnb</DestFile>
+  <DestTime>2021-10-11T21:47:54.9239472-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T11:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/SANDRA/source/repos/AtraparElBoomeran/AtraparElBoomeran/Content/bin/Windows/Content/BOOMERANsonido.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

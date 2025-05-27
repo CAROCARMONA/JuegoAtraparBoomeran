@@ -17,7 +17,7 @@
 - 💻 **Lenguaje:** C#
 - 🧩 **Framework:** Windows Forms / Unity (dependiendo de la plataforma utilizada)
 - 🎨 Recursos gráficos: Sprites de perro, búmeran y entorno
-- ⏱️ Temporizador y control de niveles
+- ⏱️ Vidas y control de niveles
 
 ---
 

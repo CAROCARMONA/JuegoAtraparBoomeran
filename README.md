@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologías Utilizadas
 
 - 💻 **Lenguaje:** C#
-- 🧩 **Framework:** Windows Forms / Unity (dependiendo de la plataforma utilizada)
+- 🧩 **Framework:** Visual studio comunity
 - 🎨 Recursos gráficos: Sprites de perro, búmeran y entorno
 - ⏱️ Vidas y control de niveles
 

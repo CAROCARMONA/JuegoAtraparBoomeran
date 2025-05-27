@@ -1,2 +1,40 @@
-# JuegoAtraparBoomeran
-este es la documentacion de mi proyecto de juego boomeran
+# 🐶 JuegoAtraparBoomera v1
+
+**JuegoLenguajesDP_v1** es un juego sencillo desarrollado en **C#**, donde acompañas a un perrito en su misión de atrapar un búmeran antes de que se acabe el tiempo. En el segundo nivel, el perrito debe atrapar una pelotita en la playa. Es un juego casual, educativo y entretenido, creado como parte de un proyecto de programación.
+
+---
+
+## 🎮 Descripción del Juego
+
+### Nivel 1
+- El perrito debe correr y **atrapar el búmeran** antes de que el tiempo llegue a cero.
+- El jugador debe moverse con agilidad y precisión para lograrlo.
+
+### Nivel 2
+- El escenario cambia a una **playa soleada**.
+- El perrito ahora debe **atrapar una pelotita**, sorteando obstáculos.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- 💻 **Lenguaje:** C#
+- 🧩 **Framework:** Windows Forms / Unity (dependiendo de la plataforma utilizada)
+- 🎨 Recursos gráficos: Sprites de perro, búmeran y entorno
+- ⏱️ Temporizador y control de niveles
+
+---
+
+## ✅ Características
+
+- Juego liviano y fácil de ejecutar.
+- Interfaz simple e intuitiva.
+- Progresión por niveles con objetivos distintos.
+- Temporizador que añade dificultad.
+- Gráficos amigables y adecuados para niños.
+
+---
+
+## 📁 Estructura del Proyecto (Ejemplo)
+
+

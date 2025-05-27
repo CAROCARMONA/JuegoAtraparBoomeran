@@ -1,6 +1,6 @@
 # 🐶 JuegoAtraparBoomera v1
 
-**JuegoLenguajesDP_v1** es un juego sencillo desarrollado en **C#**, donde acompañas a un perrito en su misión de atrapar un búmeran antes de que se acabe el tiempo. En el segundo nivel, el perrito debe atrapar una pelotita en la playa. Es un juego casual, educativo y entretenido, creado como parte de un proyecto de programación.
+**JuegoLenguajesDP_v1** es un juego sencillo desarrollado en **C#**, donde acompañas a un perrito en su misión de atrapar un búmeran antes de que se acabe el tiempo. Es un juego casual, educativo y entretenido, creado como parte de un proyecto de programación.
 
 ---
 
@@ -9,10 +9,6 @@
 ### Nivel 1
 - El perrito debe correr y **atrapar el búmeran** antes de que el tiempo llegue a cero.
 - El jugador debe moverse con agilidad y precisión para lograrlo.
-
-### Nivel 2
-- El escenario cambia a una **playa soleada**.
-- El perrito ahora debe **atrapar una pelotita**, sorteando obstáculos.
 
 ---
 
